@@ -1,5 +1,7 @@
 # func-vue
 
+用來練習功能的 repo
+
 ## Project setup
 ```
 npm install
